@@ -197,7 +197,7 @@ Uniform grid with offset
 <w>1.2</w>
 <efield>0.1</efield>
 </esm>
-<fcp_opt>true</fcp_opt>
+<fcp>true</fcp>
 <fcp_mu>-0.036749</fcp_mu>
 </boundary_conditions>
   </input>

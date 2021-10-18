@@ -497,7 +497,7 @@ class PwInputConverter(RawInputConverter):
                 'w': "SYSTEM[esm_w]",
                 'efield': "SYSTEM[esm_efield]"
             },
-            'fcp_opt': "CONTROL[lfcp]",
+            'fcp': "CONTROL[lfcp]",
             'fcp_mu': "FCP[fcp_mu]"
         },
         'ekin_functional': {
