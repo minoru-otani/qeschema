@@ -119,7 +119,7 @@ Authors: Antonio Zambon, Paolo Giannozzi, Pietro Delugas
       <element type="double" name="wall"/>
     </sequence>
     <attribute type="string" name="label" use="required"/>
-    <attribute type="positiveInteger" name="calls" use="optional"/>
+    <attribute type="nonNegativeInteger" name="calls" use="optional"/>
   </complexType>
   <!-- CONTROL -->
   <complexType name="control_variablesType">
